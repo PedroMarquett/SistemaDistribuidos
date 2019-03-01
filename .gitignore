@@ -1,0 +1,46 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/AngularChatBot/dist
+/AngularChatBot/tmp
+/AngularChatBot/out-tsc
+# Only exists if Bazel was run
+/AngularChatBot/bazel-out
+
+# dependencies
+/AngularChatBot/node_modules
+
+# profiling files
+/AngularChatBot/chrome-profiler-events.json
+/AngularChatBot/speed-measure-plugin.json
+
+# IDEs and editors
+/AngularChatBot/.idea
+/AngularChatBot/.project
+/AngularChatBot/.classpath
+/AngularChatBot/.c9/
+/AngularChatBot/*.launch
+/AngularChatBot/.settings/
+/AngularChatBot/*.sublime-workspace
+
+# IDE - VSCode
+/AngularChatBot/.vscode/*
+/AngularChatBot/!.vscode/settings.json
+/AngularChatBot/!.vscode/tasks.json
+/AngularChatBot/!.vscode/launch.json
+/AngularChatBot/!.vscode/extensions.json
+/AngularChatBot/.history/*
+
+# misc
+/AngularChatBot/.sass-cache
+/AngularChatBot/connect.lock
+/AngularChatBot/coverage
+/AngularChatBot/libpeerconnection.log
+/AngularChatBot/npm-debug.log
+/AngularChatBot/yarn-error.log
+/AngularChatBot/testem.log
+/AngularChatBot/typings
+
+# System Files
+/AngularChatBot/.DS_Store
+/AngularChatBot/Thumbs.db
